@@ -1,0 +1,2 @@
+#!/bin/sh
+echo 'MemoryMonitor v1.0.0'
